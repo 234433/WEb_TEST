@@ -1,1 +1,2 @@
+relese:python manage.py migrate
 web: gunicorn LinK.wsgi
