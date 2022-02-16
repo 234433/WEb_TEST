@@ -1,2 +1,1 @@
-relese:python manage.py migrate
-web: gunicorn LinK.wsgi
+web: gunicorn LiNKs.wsgi --log-file -
