@@ -1,3 +1,16 @@
-django
-whitenoise
-gunicone
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1642912811357/work
+certifi==2021.10.8
+charset-normalizer==2.0.12
+dj-database-url==0.5.0
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1638897748254/work
+django-heroku==0.0.0
+gunicorn @ file:///Users/runner/miniforge3/conda-bld/gunicorn_1635854335256/work
+heroku==0.1.4
+idna==3.3
+python-dateutil==1.5
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+requests==2.27.1
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1631317292236/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1638334978229/work
+urllib3==1.26.8
+whitenoise==5.3.0
